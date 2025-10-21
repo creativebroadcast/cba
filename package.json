@@ -1,0 +1,16 @@
+{
+  "name": "client-productions-ui",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^10.7.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "react-swipeable": "^7.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
